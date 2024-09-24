@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<Canvas xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Width>800</Width>
+  <Height>600</Height>
+  <Items>
+    <Item x="345" y="71" flag="40">scm_ful_f</Item>
+    <Item x="52" y="15" flag="40">bg</Item>
+    <Item x="345" y="71" flag="40">scm_ful</Item>
+    <Item x="543" y="71" flag="40">scm_wnd_f</Item>
+    <Item x="543" y="71" flag="40">scm_wnd</Item>
+    <Item x="345" y="107" flag="40">bgm_on_f</Item>
+    <Item x="345" y="107" flag="40">bgm_on</Item>
+    <Item x="543" y="107" flag="40">bgm_off_f</Item>
+    <Item x="543" y="107" flag="40">bgm_off</Item>
+    <Item x="345" y="179" flag="40">voc_on_f</Item>
+    <Item x="345" y="179" flag="40">voc_on</Item>
+    <Item x="543" y="179" flag="40">voc_off_f</Item>
+    <Item x="543" y="179" flag="40">voc_off</Item>
+    <Item x="301" y="251" flag="40">vocst_on_f</Item>
+    <Item x="301" y="251" flag="40">vocst_on</Item>
+    <Item x="552" y="251" flag="40">vocst_off_f</Item>
+    <Item x="552" y="251" flag="40">vocst_off</Item>
+    <Item x="345" y="287" flag="40">sef_on_f</Item>
+    <Item x="345" y="287" flag="40">sef_on</Item>
+    <Item x="543" y="287" flag="40">sef_off_f</Item>
+    <Item x="543" y="287" flag="40">sef_off</Item>
+    <Item x="345" y="359" flag="40">gef_on_f</Item>
+    <Item x="345" y="359" flag="40">gef_on</Item>
+    <Item x="543" y="359" flag="40">gef_off_f</Item>
+    <Item x="543" y="359" flag="40">gef_off</Item>
+    <Item x="320" y="395" flag="40">msp_slw_f</Item>
+    <Item x="320" y="395" flag="40">msp_slw</Item>
+    <Item x="458" y="395" flag="40">msp_nom_f</Item>
+    <Item x="458" y="395" flag="40">msp_nom</Item>
+    <Item x="556" y="395" flag="40">msp_now_f</Item>
+    <Item x="556" y="395" flag="40">msp_now</Item>
+    <Item x="323" y="431" flag="40">msk_on_f</Item>
+    <Item x="323" y="431" flag="40">msk_on</Item>
+    <Item x="536" y="431" flag="40">msk_off_f</Item>
+    <Item x="536" y="431" flag="40">msk_off</Item>
+    <Item x="383" y="144" flag="40">bgm_lev</Item>
+    <Item x="383" y="216" flag="40">voc_lev</Item>
+    <Item x="383" y="324" flag="40">sef_lev</Item>
+    <Item x="383" y="468" flag="40">auto_lev</Item>
+    <Item x="383" y="144" flag="40">bgm_vol</Item>
+    <Item x="383" y="144" flag="40">bgm_vol_f</Item>
+    <Item x="383" y="216" flag="40">voc_vol</Item>
+    <Item x="383" y="216" flag="40">voc_vol_f</Item>
+    <Item x="383" y="324" flag="40">sef_vol</Item>
+    <Item x="383" y="324" flag="40">sef_vol_f</Item>
+    <Item x="383" y="468" flag="40">auto_vol</Item>
+    <Item x="383" y="468" flag="40">auto_vol_f</Item>
+    <Item x="92" y="539" flag="40">title</Item>
+    <Item x="92" y="539" flag="40">title_f</Item>
+    <Item x="298" y="539" flag="40">exit</Item>
+    <Item x="298" y="539" flag="40">exit_f</Item>
+    <Item x="504" y="539" flag="40">close</Item>
+    <Item x="504" y="539" flag="40">close_f</Item>
+    <Item x="217" y="503" flag="40">save</Item>
+    <Item x="217" y="503" flag="40">save_f</Item>
+    <Item x="415" y="503" flag="40">load</Item>
+    <Item x="415" y="503" flag="40">load_f</Item>
+  </Items>
+</Canvas>

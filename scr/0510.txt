@@ -1,0 +1,169 @@
+#EQUALS
+[2, 502, 1]
+#ASSIGN
+[1, 2]
+#ASSIGN
+[0, 1]
+#JUMP_UNLESS
+[0]
+#46
+[101]
+#IMAGE_SET
+[]
+#45
+[0, 0]
+#BLEND_IMG
+[1, 66040, 66041]
+#JUMP
+[1]
+@0
+#EQUALS
+[2, 502, 101]
+#ASSIGN
+[1, 2]
+#ASSIGN
+[0, 1]
+#JUMP_UNLESS
+[2]
+#46
+[101]
+#IMAGE_SET
+[]
+#45
+[0, 1]
+#BLEND_IMG
+[1, 66040, 66041]
+#JUMP
+[1]
+@2
+#EQUALS
+[2, 502, 2]
+#ASSIGN
+[1, 2]
+#ASSIGN
+[0, 1]
+#JUMP_UNLESS
+[3]
+#46
+[101]
+#IMAGE_SET
+[]
+#45
+[0, 0]
+#BLEND_IMG
+[2, 66040, 66041]
+#JUMP
+[1]
+@3
+#EQUALS
+[2, 502, 102]
+#ASSIGN
+[1, 2]
+#ASSIGN
+[0, 1]
+#JUMP_UNLESS
+[4]
+#46
+[101]
+#IMAGE_SET
+[]
+#45
+[0, 1]
+#BLEND_IMG
+[2, 66040, 66041]
+#JUMP
+[1]
+@4
+#EQUALS
+[2, 502, 3]
+#ASSIGN
+[1, 2]
+#EQUALS
+[4, 502, 103]
+#ASSIGN
+[3, 4]
+#9472
+[5, 1, 3]
+#ASSIGN
+[0, 5]
+#JUMP_UNLESS
+[5]
+#46
+[101]
+#IMAGE_SET
+[]
+#45
+[0, 1]
+#BLEND_IMG
+[3, 66040, 66041]
+#JUMP
+[1]
+@5
+#EQUALS
+[2, 502, 4]
+#ASSIGN
+[1, 2]
+#EQUALS
+[4, 502, 104]
+#ASSIGN
+[3, 4]
+#9472
+[5, 1, 3]
+#ASSIGN
+[0, 5]
+#JUMP_UNLESS
+[6]
+#46
+[101]
+#IMAGE_SET
+[]
+#45
+[0, 0]
+#BLEND_IMG
+[4, 66040, 66041]
+#JUMP
+[1]
+@6
+#22528
+[1, 502, 11]
+#ASSIGN
+[0, 1]
+#JUMP_UNLESS
+[1]
+#22528
+[1, 502, 100]
+#ASSIGN
+[0, 1]
+#JUMP_UNLESS
+[7]
+#47104
+[1, 502, 100]
+#6400
+[2, 999, 1]
+#ASSIGN
+[0, 2]
+#46
+[101]
+#IMAGE_SET
+[]
+#45
+[0, 1]
+#BLEND_IMG
+[66535, 66040, 66041]
+#JUMP
+[1]
+@7
+#46
+[101]
+#IMAGE_SET
+[]
+#45
+[0, 0]
+#BLEND_IMG
+[66038, 66040, 66041]
+@1
+#18
+[501, 1]
+#16
+[0]
+>0

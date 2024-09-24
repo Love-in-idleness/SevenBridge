@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<Canvas xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Width>46</Width>
+  <Height>36</Height>
+  <Items>
+    <Item x="15" y="4" flag="40">１</Item>
+    <Item x="8" y="4" flag="40">２</Item>
+    <Item x="9" y="4" flag="40">３</Item>
+    <Item x="7" y="4" flag="40">４</Item>
+    <Item x="8" y="4" flag="40">５</Item>
+    <Item x="9" y="4" flag="40">６</Item>
+    <Item x="8" y="4" flag="40">７</Item>
+    <Item x="8" y="4" flag="40">８</Item>
+    <Item x="9" y="4" flag="40">９</Item>
+    <Item x="6" y="5" flag="40">10</Item>
+  </Items>
+</Canvas>
